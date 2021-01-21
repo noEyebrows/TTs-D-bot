@@ -6,6 +6,7 @@ Basic TTs Discord bot as long as you have right PIPs installed and follow instru
 The "-repeat" command is used for it to say what ever you want the bot to. ie: User: -repeat Hello Bot: Hello
 
 NOTES:
+
 -You dont at the time need to import everything in the code, since a few arent integrated yet
 
 -The bot WILL NOT connect untill you follow the instructions @line 48
